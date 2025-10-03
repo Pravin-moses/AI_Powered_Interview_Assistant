@@ -11,7 +11,7 @@ A smart, resume-driven interview platform built with React. It simulates a full-
 - Automatically extracts **Name**, **Email**, and **Phone**
 - If any field is missing, chatbot prompts the candidate before starting
 - Timed interview with 6 AI-generated questions:
-  - 2 Easy (30s each)
+  - 2 Easy (20s each)
   - 2 Medium (60s each)
   - 2 Hard (120s each)
 - Auto-submits answers when time runs out
