@@ -1,8 +1,8 @@
 // src/utils/scoring.js
 
 export const QUESTIONS = [
-  { id: 1, difficulty: "Easy", text: "What is React? Explain in 1-2 lines.", time: 30 },
-  { id: 2, difficulty: "Easy", text: "Explain the difference between let and const in JavaScript.", time: 30 },
+  { id: 1, difficulty: "Easy", text: "What is React? Explain in 1-2 lines.", time: 20 },
+  { id: 2, difficulty: "Easy", text: "Explain the difference between let and const in JavaScript.", time: 20 },
   { id: 3, difficulty: "Medium", text: "What is a REST API? Give an example of designing a POST endpoint.", time: 60 },
   { id: 4, difficulty: "Medium", text: "How do props differ from state in React? When do you use each?", time: 60 },
   { id: 5, difficulty: "Hard", text: "How would you optimize React performance? Give 3 techniques.", time: 120 },
