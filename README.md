@@ -42,6 +42,22 @@ A smart, resume-driven interview platform built with React. It simulates a full-
 
 ---
 
+## ✅ How It Works
+
+Candidate uploads resume → fields extracted
+
+Missing fields? Chatbot asks before starting
+
+Interview begins → questions shown one at a time
+
+Timer runs → auto-submits if time expires
+
+Final score + summary generated
+
+Interviewer dashboard updates instantly
+
+---
+
 ## 📦 Installation
 
 ```bash
